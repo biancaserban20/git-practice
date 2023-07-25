@@ -1,7 +1,5 @@
 Hellooo
 Lets see this through!
-<<<<<<< HEAD
+
 Here we go again
-=======
 Nico was here
->>>>>>> c5dd5ad2b6f77ade140f84b413c7431bc9859311
